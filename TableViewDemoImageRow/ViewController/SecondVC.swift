@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondVC.swift
 //  TableViewDemoImageRow
 //
 //  Created by Vu Thanh Nam on 11/05/2022.
@@ -7,13 +7,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondVC: ViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .systemBlue
+        
     }
+    
 
 
 }
-
